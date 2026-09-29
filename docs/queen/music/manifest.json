@@ -1,0 +1,792 @@
+{
+ "generatedBy": "tools/render-music.js",
+ "machine": "mt32",
+ "masterVolume": 192,
+ "gainDb": 5.44,
+ "bitrate": "128k",
+ "minutes": 60,
+ "sequences": {
+  "006": {
+   "seconds": 8.011,
+   "bytes": 142692,
+   "speed": 0.998641,
+   "joinDb": 28.7,
+   "elseDb": 30.4
+  },
+  "007": {
+   "seconds": 8.011,
+   "bytes": 141376,
+   "speed": 0.998641,
+   "joinDb": 24.9,
+   "elseDb": 29.1
+  },
+  "008": {
+   "seconds": 8.011,
+   "bytes": 140812,
+   "speed": 0.998641,
+   "joinDb": 23.2,
+   "elseDb": 28.6
+  },
+  "009": {
+   "seconds": 8.011,
+   "bytes": 141188,
+   "speed": 0.998641,
+   "joinDb": 25.7,
+   "elseDb": 29.4
+  },
+  "010": {
+   "seconds": 0.998,
+   "bytes": 18048,
+   "speed": 1.001544,
+   "joinDb": 24.2,
+   "elseDb": 21.7
+  },
+  "011": {
+   "seconds": 8.011,
+   "bytes": 140624,
+   "speed": 0.998641,
+   "joinDb": 26.7,
+   "elseDb": 27.6
+  },
+  "012": {
+   "seconds": 8.011,
+   "bytes": 143444,
+   "speed": 0.998641,
+   "joinDb": 27.5,
+   "elseDb": 29.3
+  },
+  "013": {
+   "seconds": 8.011,
+   "bytes": 156416,
+   "speed": 0.998641,
+   "joinDb": 26.9,
+   "elseDb": 29
+  },
+  "014": {
+   "seconds": 94.134,
+   "bytes": 1645752,
+   "speed": 0.999907,
+   "joinDb": 35.5,
+   "elseDb": 36.2
+  },
+  "015": {
+   "seconds": 44.002,
+   "bytes": 769296,
+   "speed": 0.999959,
+   "joinDb": 21.1,
+   "elseDb": 24.1
+  },
+  "016": {
+   "seconds": 95.411,
+   "bytes": 1739000,
+   "speed": 0.999898,
+   "joinDb": 24.7,
+   "elseDb": 28.1
+  },
+  "017": {
+   "seconds": 65.202,
+   "bytes": 1085512,
+   "speed": 0.999983,
+   "joinDb": 21.2,
+   "elseDb": 23.7
+  },
+  "022": {
+   "seconds": 91.463,
+   "bytes": 1670944,
+   "speed": 0.999945,
+   "joinDb": 28.4,
+   "elseDb": 29.6
+  },
+  "024": {
+   "seconds": 37.547,
+   "bytes": 660820,
+   "speed": 0.999996,
+   "joinDb": 28.2,
+   "elseDb": 30.5
+  },
+  "027": {
+   "seconds": 121.115,
+   "bytes": 2122332,
+   "speed": 1.000008,
+   "joinDb": 9.5,
+   "elseDb": 30.1
+  },
+  "028": {
+   "seconds": 38.011,
+   "bytes": 676236,
+   "speed": 0.999709,
+   "joinDb": 27.2,
+   "elseDb": 29.3
+  },
+  "029": {
+   "seconds": 271.999,
+   "bytes": 4763544,
+   "speed": 1.000005,
+   "joinDb": 39,
+   "elseDb": 36.4
+  },
+  "030": {
+   "seconds": 32.09,
+   "bytes": 576408,
+   "speed": 0.999792,
+   "joinDb": 22,
+   "elseDb": 26.4
+  },
+  "031": {
+   "seconds": 23.986,
+   "bytes": 437852,
+   "speed": 0.99956,
+   "joinDb": 22.9,
+   "elseDb": 25.2
+  },
+  "032": {
+   "seconds": 15.999,
+   "bytes": 297040,
+   "speed": 0.999872,
+   "joinDb": 21.4,
+   "elseDb": 26
+  },
+  "033": {
+   "seconds": 59.072,
+   "bytes": 1033624,
+   "speed": 1.000083,
+   "joinDb": 29.3,
+   "elseDb": 29.9
+  },
+  "034": {
+   "seconds": 59.072,
+   "bytes": 1034940,
+   "speed": 1.000083,
+   "joinDb": 30,
+   "elseDb": 29.6
+  },
+  "035": {
+   "seconds": 59.397,
+   "bytes": 1038700,
+   "speed": 0.999913,
+   "joinDb": 32.9,
+   "elseDb": 32.2
+  },
+  "036": {
+   "seconds": 355.892,
+   "bytes": 5928956,
+   "speed": 1.000007,
+   "joinDb": 28,
+   "elseDb": 36.9
+  },
+  "037": {
+   "seconds": 31.951,
+   "bytes": 563436,
+   "speed": 1.00024,
+   "joinDb": 36.5,
+   "elseDb": 33.6
+  },
+  "038": {
+   "seconds": 99.869,
+   "bytes": 1709108,
+   "speed": 1.000105,
+   "joinDb": 9.2,
+   "elseDb": 29
+  },
+  "039": {
+   "seconds": 59.884,
+   "bytes": 1067088,
+   "speed": 1.00014,
+   "joinDb": 23.9,
+   "elseDb": 27.3
+  },
+  "040": {
+   "seconds": 47.996,
+   "bytes": 850324,
+   "speed": 1.00009,
+   "joinDb": 29.7,
+   "elseDb": 34.1
+  },
+  "041": {
+   "seconds": 38.011,
+   "bytes": 681312,
+   "speed": 0.999709,
+   "joinDb": 22.4,
+   "elseDb": 27.9
+  },
+  "042": {
+   "seconds": 37.756,
+   "bytes": 672664,
+   "speed": 0.99992,
+   "joinDb": 39.6,
+   "elseDb": 33.4
+  },
+  "043": {
+   "seconds": 37.965,
+   "bytes": 670220,
+   "speed": 1.00028,
+   "joinDb": 29.3,
+   "elseDb": 30.3
+  },
+  "044": {
+   "seconds": 12.748,
+   "bytes": 223532,
+   "speed": 1.000176,
+   "joinDb": 30.4,
+   "elseDb": 28.4
+  },
+  "045": {
+   "seconds": 18.947,
+   "bytes": 338776,
+   "speed": 1.000572,
+   "joinDb": 24.1,
+   "elseDb": 26.2
+  },
+  "046": {
+   "seconds": 25.217,
+   "bytes": 442364,
+   "speed": 0.999661,
+   "joinDb": 33.2,
+   "elseDb": 32
+  },
+  "047": {
+   "seconds": 15.999,
+   "bytes": 295724,
+   "speed": 0.999872,
+   "joinDb": 24.4,
+   "elseDb": 27.2
+  },
+  "050": {
+   "seconds": 7.988,
+   "bytes": 147956,
+   "speed": 1.001107,
+   "joinDb": 21.7,
+   "elseDb": 26.2
+  },
+  "051": {
+   "seconds": 15.999,
+   "bytes": 300988,
+   "speed": 0.999872,
+   "joinDb": 23.9,
+   "elseDb": 26.9
+  },
+  "053": {
+   "seconds": 15.999,
+   "bytes": 295348,
+   "speed": 0.999872,
+   "joinDb": 23.2,
+   "elseDb": 25.8
+  },
+  "054": {
+   "seconds": 59.095,
+   "bytes": 1035316,
+   "speed": 0.999806,
+   "joinDb": 23.4,
+   "elseDb": 31.8
+  },
+  "055": {
+   "seconds": 73.863,
+   "bytes": 1293816,
+   "speed": 0.999885,
+   "joinDb": 32.4,
+   "elseDb": 32.6
+  },
+  "056": {
+   "seconds": 9.358,
+   "bytes": 164124,
+   "speed": 1.000465,
+   "joinDb": 29.2,
+   "elseDb": 24.9
+  },
+  "062": {
+   "seconds": 18.947,
+   "bytes": 333888,
+   "speed": 1.00016,
+   "joinDb": 37.6,
+   "elseDb": 32.3
+  },
+  "063": {
+   "seconds": 18.947,
+   "bytes": 336144,
+   "speed": 1.00016,
+   "joinDb": 29,
+   "elseDb": 28.7
+  },
+  "064": {
+   "seconds": 18.808,
+   "bytes": 336144,
+   "speed": 0.999677,
+   "joinDb": 24.7,
+   "elseDb": 28.1
+  },
+  "066": {
+   "seconds": 3.669,
+   "bytes": 65988,
+   "speed": 1.001323,
+   "joinDb": 20.2,
+   "elseDb": 23.1
+  },
+  "067": {
+   "seconds": 7.686,
+   "bytes": 135548,
+   "speed": 1.000221,
+   "joinDb": 5.9,
+   "elseDb": 28.2
+  },
+  "068": {
+   "seconds": 3.669,
+   "bytes": 64860,
+   "speed": 1.001323,
+   "joinDb": 28.4,
+   "elseDb": 22.1
+  },
+  "069": {
+   "seconds": 7.338,
+   "bytes": 128028,
+   "speed": 0.998779,
+   "joinDb": 28.9,
+   "elseDb": 30.8
+  },
+  "071": {
+   "seconds": 95.945,
+   "bytes": 1718320,
+   "speed": 0.999924,
+   "joinDb": 26.3,
+   "elseDb": 28
+  },
+  "072": {
+   "seconds": 192.006,
+   "bytes": 3406560,
+   "speed": 0.99997,
+   "joinDb": 22.4,
+   "elseDb": 26.8
+  },
+  "073": {
+   "seconds": 137.485,
+   "bytes": 2448700,
+   "speed": 0.999993,
+   "joinDb": 28.9,
+   "elseDb": 27
+  },
+  "074": {
+   "seconds": 48.019,
+   "bytes": 844120,
+   "speed": 1.000123,
+   "joinDb": 32,
+   "elseDb": 37.3
+  },
+  "075": {
+   "seconds": 96.015,
+   "bytes": 1685420,
+   "speed": 0.999957,
+   "joinDb": 31.4,
+   "elseDb": 29.4
+  },
+  "076": {
+   "seconds": 99.567,
+   "bytes": 1742572,
+   "speed": 0.999954,
+   "joinDb": 28.8,
+   "elseDb": 30
+  },
+  "077": {
+   "seconds": 31.556,
+   "bytes": 551592,
+   "speed": 0.999948,
+   "joinDb": 30.1,
+   "elseDb": 28.5
+  },
+  "079": {
+   "seconds": 42.655,
+   "bytes": 746924,
+   "speed": 1.00011,
+   "joinDb": 29.2,
+   "elseDb": 32.1
+  },
+  "080": {
+   "seconds": 16.022,
+   "bytes": 289520,
+   "speed": 1.000159,
+   "joinDb": 30.1,
+   "elseDb": 32.2
+  },
+  "086": {
+   "seconds": 177.261,
+   "bytes": 3108016,
+   "speed": 0.999937,
+   "joinDb": 32.2,
+   "elseDb": 33.5
+  },
+  "087": {
+   "seconds": 29.466,
+   "bytes": 515872,
+   "speed": 0.999952,
+   "joinDb": 33.2,
+   "elseDb": 32.5
+  },
+  "090": {
+   "seconds": 21.641,
+   "bytes": 379948,
+   "speed": 0.999694,
+   "joinDb": 30.8,
+   "elseDb": 28.1
+  },
+  "091": {
+   "seconds": 144.66,
+   "bytes": 2536872,
+   "speed": 0.999961,
+   "joinDb": 36.3,
+   "elseDb": 32.7
+  },
+  "092": {
+   "seconds": 37.872,
+   "bytes": 678116,
+   "speed": 0.999869,
+   "joinDb": 22.6,
+   "elseDb": 28.4
+  },
+  "093": {
+   "seconds": 9.009,
+   "bytes": 158484,
+   "speed": 0.998963,
+   "joinDb": 30.7,
+   "elseDb": 32.8
+  },
+  "095": {
+   "seconds": 25.24,
+   "bytes": 441800,
+   "speed": 1.000393,
+   "joinDb": 28.8,
+   "elseDb": 30.1
+  },
+  "096": {
+   "seconds": 9.102,
+   "bytes": 168072,
+   "speed": 0.999425,
+   "joinDb": 22.5,
+   "elseDb": 26
+  },
+  "097": {
+   "seconds": 15.999,
+   "bytes": 287076,
+   "speed": 0.999766,
+   "joinDb": 20.2,
+   "elseDb": 23
+  },
+  "098": {
+   "seconds": 29.489,
+   "bytes": 530724,
+   "speed": 1.000363,
+   "joinDb": 20.4,
+   "elseDb": 28
+  },
+  "099": {
+   "seconds": 13.909,
+   "bytes": 248536,
+   "speed": 0.999917,
+   "joinDb": 32.9,
+   "elseDb": 29.8
+  },
+  "020": {
+   "seconds": 55.449,
+   "bytes": 992076,
+   "speed": 1.000074,
+   "joinDb": 22.5,
+   "elseDb": 25.9
+  },
+  "094": {
+   "seconds": 272.509,
+   "bytes": 4865064,
+   "speed": 1.000042,
+   "joinDb": 26.2,
+   "elseDb": 28.4
+  }
+ },
+ "tunes": {
+  "194": {
+   "end": "loop",
+   "plays": 96,
+   "minutes": 60.1
+  },
+  "197": {
+   "end": "loop",
+   "plays": 190,
+   "minutes": 60
+  },
+  "198": {
+   "end": "loop",
+   "plays": 143,
+   "minutes": 60.1
+  },
+  "199": {
+   "end": "loop",
+   "plays": 123,
+   "minutes": 60.5
+  },
+  "201": {
+   "end": "loop",
+   "plays": 96,
+   "minutes": 60.6
+  },
+  "206": {
+   "end": "loop",
+   "plays": 29,
+   "minutes": 63
+  },
+  "207": {
+   "end": "stop",
+   "plays": 3,
+   "minutes": 1.4
+  },
+  "211": {
+   "end": "loop",
+   "plays": 31,
+   "minutes": 60.6
+  },
+  "212": {
+   "end": "loop",
+   "plays": 30,
+   "minutes": 60.2
+  },
+  "001": {
+   "end": "loop",
+   "plays": 151,
+   "minutes": 60.4
+  },
+  "002": {
+   "end": "loop",
+   "plays": 76,
+   "minutes": 60.8
+  },
+  "003": {
+   "end": "loop",
+   "plays": 142,
+   "minutes": 60.5
+  },
+  "009": {
+   "end": "loop",
+   "plays": 40,
+   "minutes": 61
+  },
+  "010": {
+   "end": "loop",
+   "plays": 11,
+   "minutes": 65.2
+  },
+  "011": {
+   "end": "loop",
+   "plays": 113,
+   "minutes": 60.2
+  },
+  "012": {
+   "end": "loop",
+   "plays": 14,
+   "minutes": 63.5
+  },
+  "013": {
+   "end": "loop",
+   "plays": 59,
+   "minutes": 60.9
+  },
+  "014": {
+   "end": "loop",
+   "plays": 31,
+   "minutes": 62
+  },
+  "015": {
+   "end": "loop",
+   "plays": 38,
+   "minutes": 60.8
+  },
+  "016": {
+   "end": "loop",
+   "plays": 95,
+   "minutes": 60.1
+  },
+  "019": {
+   "end": "loop",
+   "plays": 33,
+   "minutes": 61.3
+  },
+  "020": {
+   "end": "loop",
+   "plays": 191,
+   "minutes": 60.2
+  },
+  "021": {
+   "end": "loop",
+   "plays": 96,
+   "minutes": 60.4
+  },
+  "022": {
+   "end": "loop",
+   "plays": 113,
+   "minutes": 60.4
+  },
+  "023": {
+   "end": "loop",
+   "plays": 226,
+   "minutes": 60.3
+  },
+  "024": {
+   "end": "loop",
+   "plays": 61,
+   "minutes": 60.9
+  },
+  "032": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.1
+  },
+  "033": {
+   "end": "loop",
+   "plays": 95,
+   "minutes": 60.2
+  },
+  "034": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.1
+  },
+  "035": {
+   "end": "stop",
+   "plays": 1,
+   "minutes": 0.2
+  },
+  "036": {
+   "end": "loop",
+   "plays": 226,
+   "minutes": 60.3
+  },
+  "037": {
+   "end": "loop",
+   "plays": 251,
+   "minutes": 60.1
+  },
+  "038": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.1
+  },
+  "039": {
+   "end": "stop",
+   "plays": 1,
+   "minutes": 0.1
+  },
+  "040": {
+   "end": "loop",
+   "plays": 225,
+   "minutes": 60.1
+  },
+  "041": {
+   "end": "loop",
+   "plays": 144,
+   "minutes": 60.2
+  },
+  "043": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.1
+  },
+  "044": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.2
+  },
+  "045": {
+   "end": "loop",
+   "plays": 190,
+   "minutes": 60
+  },
+  "046": {
+   "end": "loop",
+   "plays": 25,
+   "minutes": 60.3
+  },
+  "047": {
+   "end": "loop",
+   "plays": 85,
+   "minutes": 60.4
+  },
+  "048": {
+   "end": "previous",
+   "plays": 1,
+   "minutes": 0.4
+  },
+  "049": {
+   "end": "loop",
+   "plays": 37,
+   "minutes": 61.4
+  },
+  "050": {
+   "end": "loop",
+   "plays": 75,
+   "minutes": 60
+  },
+  "051": {
+   "end": "loop",
+   "plays": 128,
+   "minutes": 60.5
+  },
+  "052": {
+   "end": "loop",
+   "plays": 111,
+   "minutes": 61.1
+  },
+  "053": {
+   "end": "loop",
+   "plays": 107,
+   "minutes": 60.1
+  },
+  "054": {
+   "end": "loop",
+   "plays": 115,
+   "minutes": 60.4
+  },
+  "055": {
+   "end": "loop",
+   "plays": 143,
+   "minutes": 60.2
+  },
+  "056": {
+   "end": "loop",
+   "plays": 115,
+   "minutes": 60.5
+  },
+  "057": {
+   "end": "loop",
+   "plays": 123,
+   "minutes": 60.4
+  },
+  "058": {
+   "end": "loop",
+   "plays": 61,
+   "minutes": 60.1
+  },
+  "093": {
+   "end": "loop",
+   "plays": 19,
+   "minutes": 60.8
+  },
+  "094": {
+   "end": "loop",
+   "plays": 38,
+   "minutes": 60.8
+  },
+  "095": {
+   "end": "loop",
+   "plays": 96,
+   "minutes": 60.6
+  },
+  "096": {
+   "end": "loop",
+   "plays": 27,
+   "minutes": 61.9
+  },
+  "070": {
+   "end": "loop",
+   "plays": 14,
+   "minutes": 63.6
+  },
+  "091": {
+   "end": "stop",
+   "plays": 1,
+   "minutes": 0.9
+  }
+ }
+}
