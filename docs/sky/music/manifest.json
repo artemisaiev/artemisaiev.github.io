@@ -1,0 +1,393 @@
+{
+ "generatedBy": "tools/render-music.js",
+ "machine": "mt32",
+ "analogOutput": "coarse",
+ "musicVolume": 96,
+ "gainDb": 4,
+ "rate": 44100,
+ "bitrate": "128k",
+ "minutes": 60,
+ "songs": {
+  "0-01": {
+   "loops": false,
+   "seconds": 100.86,
+   "songSeconds": 97.66,
+   "peak": 11395,
+   "bytes": 1767388
+  },
+  "0-02": {
+   "loops": false,
+   "seconds": 33.837,
+   "songSeconds": 30.26,
+   "peak": 6035,
+   "bytes": 593704
+  },
+  "1-01": {
+   "loops": false,
+   "seconds": 75.133,
+   "songSeconds": 71.72,
+   "peak": 6799,
+   "bytes": 1313368
+  },
+  "1-02": {
+   "loops": true,
+   "firstPass": 53.8,
+   "loop": 53.82,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    2690,
+    5381
+   ],
+   "speed": 0.999928,
+   "joinDb": 23.2,
+   "elseDb": 26.4,
+   "peak": 6573,
+   "bytes": 1893536,
+   "playlistMinutes": 60.1
+  },
+  "1-03": {
+   "loops": true,
+   "firstPass": 35.86,
+   "loop": 35.88,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    1793,
+    3587
+   ],
+   "speed": 1.000144,
+   "joinDb": 34.8,
+   "elseDb": 32.4,
+   "peak": 13487,
+   "bytes": 1258848,
+   "playlistMinutes": 60.4
+  },
+  "1-04": {
+   "loops": false,
+   "seconds": 18.471,
+   "songSeconds": 14.7,
+   "peak": 10736,
+   "bytes": 323360
+  },
+  "2-01": {
+   "loops": false,
+   "seconds": 75.134,
+   "songSeconds": 71.72,
+   "peak": 6701,
+   "bytes": 1313556
+  },
+  "2-02": {
+   "loops": true,
+   "firstPass": 68.54,
+   "loop": 68.54,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    3427,
+    6854
+   ],
+   "speed": 0.999923,
+   "joinDb": 21.4,
+   "elseDb": 25.3,
+   "peak": 14792,
+   "bytes": 2439112,
+   "playlistMinutes": 60.5
+  },
+  "2-03": {
+   "loops": true,
+   "firstPass": 63.96,
+   "loop": 63.98,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    3198,
+    6397
+   ],
+   "speed": 1.000141,
+   "joinDb": 29,
+   "elseDb": 31.2,
+   "peak": 11742,
+   "bytes": 2240772,
+   "playlistMinutes": 60.8
+  },
+  "2-04": {
+   "loops": false,
+   "seconds": 18.471,
+   "songSeconds": 14.7,
+   "peak": 11785,
+   "bytes": 323360
+  },
+  "3-01": {
+   "loops": true,
+   "firstPass": 105.56,
+   "loop": 105.56,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    5278,
+    10556
+   ],
+   "speed": 1.00002,
+   "joinDb": 27.8,
+   "elseDb": 29.8,
+   "peak": 11611,
+   "bytes": 3742328,
+   "playlistMinutes": 61.6
+  },
+  "3-02": {
+   "loops": true,
+   "firstPass": 105.56,
+   "loop": 105.56,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    5278,
+    10556
+   ],
+   "speed": 1.00002,
+   "joinDb": 31,
+   "elseDb": 29.6,
+   "peak": 11048,
+   "bytes": 3749660,
+   "playlistMinutes": 61.6
+  },
+  "3-03": {
+   "loops": true,
+   "firstPass": 86.36,
+   "loop": 86.38,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    4318,
+    8637
+   ],
+   "speed": 1.00002,
+   "joinDb": 34.1,
+   "elseDb": 29.8,
+   "peak": 5241,
+   "bytes": 3110648,
+   "playlistMinutes": 60.5
+  },
+  "4-01": {
+   "loops": true,
+   "firstPass": 161.22,
+   "loop": 161.22,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    8061,
+    16122
+   ],
+   "speed": 1.000024,
+   "joinDb": 24.7,
+   "elseDb": 32.1,
+   "peak": 13397,
+   "bytes": 5648648,
+   "playlistMinutes": 61.8
+  },
+  "4-02": {
+   "loops": false,
+   "seconds": 52.584,
+   "songSeconds": 47.06,
+   "peak": 11169,
+   "bytes": 926276
+  },
+  "4-03": {
+   "loops": false,
+   "seconds": 42.69,
+   "songSeconds": 35.34,
+   "peak": 9700,
+   "bytes": 743916
+  },
+  "4-04": {
+   "loops": true,
+   "firstPass": 122.82,
+   "loop": 122.84,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    6141,
+    12283
+   ],
+   "speed": 1.000052,
+   "joinDb": 25.3,
+   "elseDb": 29.3,
+   "peak": 5184,
+   "bytes": 4396944,
+   "playlistMinutes": 61.4
+  },
+  "4-05": {
+   "loops": false,
+   "seconds": 112.588,
+   "songSeconds": 107,
+   "peak": 4205,
+   "bytes": 2009344
+  },
+  "4-06": {
+   "loops": false,
+   "seconds": 127.598,
+   "songSeconds": 124.76,
+   "peak": 4881,
+   "bytes": 2290216
+  },
+  "4-07": {
+   "loops": false,
+   "seconds": 9.168,
+   "songSeconds": 6.12,
+   "peak": 5882,
+   "bytes": 160364
+  },
+  "4-08": {
+   "loops": true,
+   "firstPass": 115.16,
+   "loop": 115.16,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    5758,
+    11516
+   ],
+   "speed": 0.999905,
+   "joinDb": 33.7,
+   "elseDb": 32.2,
+   "peak": 6691,
+   "bytes": 4034856,
+   "playlistMinutes": 61.4
+  },
+  "4-09": {
+   "loops": true,
+   "firstPass": 47.08,
+   "loop": 44.84,
+   "loopPasses": 1,
+   "loopPointPoll": 112,
+   "jumpPolls": [
+    2354,
+    4596
+   ],
+   "speed": 1.000051,
+   "joinDb": 24.4,
+   "elseDb": 27.7,
+   "peak": 11169,
+   "bytes": 1623380,
+   "playlistMinutes": 60.6
+  },
+  "4-10": {
+   "loops": true,
+   "firstPass": 29.98,
+   "loop": 10,
+   "loopPasses": 5,
+   "loopPointPoll": 1399,
+   "jumpPolls": [
+    1499,
+    1599,
+    1699,
+    1799,
+    1899,
+    1999
+   ],
+   "speed": 0.999221,
+   "joinDb": 24.1,
+   "elseDb": 26.2,
+   "peak": 6940,
+   "bytes": 715716,
+   "playlistMinutes": 60
+  },
+  "4-11": {
+   "loops": false,
+   "seconds": 75.133,
+   "songSeconds": 71.72,
+   "peak": 6701,
+   "bytes": 1314496
+  },
+  "5-01": {
+   "loops": false,
+   "seconds": 75.134,
+   "songSeconds": 71.72,
+   "peak": 6701,
+   "bytes": 1313556
+  },
+  "5-02": {
+   "loops": true,
+   "firstPass": 116.36,
+   "loop": 116.36,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    5818,
+    11636
+   ],
+   "speed": 1.000041,
+   "joinDb": 21,
+   "elseDb": 29.2,
+   "peak": 3037,
+   "bytes": 4080164,
+   "playlistMinutes": 60.1
+  },
+  "5-03": {
+   "loops": false,
+   "seconds": 87.567,
+   "songSeconds": 87.4,
+   "peak": 15903,
+   "bytes": 1542540
+  },
+  "5-04": {
+   "loops": false,
+   "seconds": 18.471,
+   "songSeconds": 14.7,
+   "peak": 11785,
+   "bytes": 323360
+  },
+  "5-05": {
+   "loops": true,
+   "firstPass": 63.96,
+   "loop": 63.98,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    3198,
+    6397
+   ],
+   "speed": 1.000141,
+   "joinDb": 29,
+   "elseDb": 31.2,
+   "peak": 11742,
+   "bytes": 2240772,
+   "playlistMinutes": 60.8
+  },
+  "5-06": {
+   "loops": true,
+   "firstPass": 122.82,
+   "loop": 122.84,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    6141,
+    12283
+   ],
+   "speed": 1.000052,
+   "joinDb": 27.2,
+   "elseDb": 29.1,
+   "peak": 5511,
+   "bytes": 4399576,
+   "playlistMinutes": 61.4
+  },
+  "6-01": {
+   "loops": true,
+   "firstPass": 125.94,
+   "loop": 125.96,
+   "loopPasses": 1,
+   "loopPointPoll": 0,
+   "jumpPolls": [
+    6297,
+    12595
+   ],
+   "speed": 0.999934,
+   "joinDb": 27.6,
+   "elseDb": 28.4,
+   "peak": 8650,
+   "bytes": 4465752,
+   "playlistMinutes": 60.9
+  }
+ }
+}
