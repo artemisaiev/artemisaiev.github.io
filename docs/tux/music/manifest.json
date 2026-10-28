@@ -1,0 +1,393 @@
+{
+ "antarctic/airship_remix-2": {
+  "bytes": 2706824,
+  "elseDb": 18.9,
+  "intro": 0.0,
+  "joinDb": 23.3,
+  "key": {
+   "at": 202.0,
+   "begin": 0.0,
+   "bitrate": "96k",
+   "sha1": "27d1f406dba1150b21f9ef67f6700372cc739a99",
+   "version": 1
+  },
+  "loop": 202.0,
+  "ogg": "music/antarctic/airship_2.ogg",
+  "segments": 40,
+  "speed": 1.000048
+ },
+ "antarctic/cavetheme": {
+  "bytes": 2420312,
+  "elseDb": 33.6,
+  "intro": 0.0,
+  "joinDb": 41.5,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "1fa161440b3e486aced244be24908b0f82bd8b69",
+   "version": 1
+  },
+  "loop": 76.8,
+  "ogg": "music/antarctic/cavetheme.ogg",
+  "segments": 15,
+  "speed": 0.999849
+ },
+ "antarctic/cavetheme_alt": {
+  "bytes": 3134148,
+  "elseDb": 33.3,
+  "intro": 0.0,
+  "joinDb": 35.3,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "cad4ceaf59bd0334266fb8638345c11ceec53372",
+   "version": 1
+  },
+  "loop": 99.84,
+  "ogg": "music/antarctic/cavetheme_alt.ogg",
+  "segments": 20,
+  "speed": 0.999942
+ },
+ "antarctic/crystalmine_intro": {
+  "bytes": 1375220,
+  "elseDb": 36.8,
+  "intro": 0.0,
+  "joinDb": 37.4,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "182d5cfe42b8d373ea21eb4429e12dd22fa17249",
+   "version": 1
+  },
+  "loop": 45.0,
+  "ogg": "music/antarctic/crystalmine_intro.ogg",
+  "segments": 9,
+  "speed": 0.999994
+ },
+ "antarctic/crystalmine_main": {
+  "bytes": 4588704,
+  "elseDb": 27.1,
+  "intro": 7.499,
+  "joinDb": 30.1,
+  "key": {
+   "at": 146.25,
+   "begin": 7.499,
+   "bitrate": "224k",
+   "sha1": "3aac7e29f89b2e23adb0358c91b9bf26830eaad4",
+   "version": 1
+  },
+  "loop": 138.751,
+  "ogg": "music/antarctic/crystalmine_main.ogg",
+  "segments": 30,
+  "speed": 0.999918
+ },
+ "antarctic/glacier": {
+  "bytes": 2775444,
+  "elseDb": 25.2,
+  "intro": 12.311,
+  "joinDb": 30.0,
+  "key": {
+   "at": 86.154,
+   "begin": 12.311,
+   "bitrate": "224k",
+   "sha1": "34103a6d1afa4defb73cd65dc4412abfa5f322bf",
+   "version": 1
+  },
+  "loop": 73.843,
+  "ogg": "music/antarctic/glacier.ogg",
+  "segments": 17,
+  "speed": 1.000046
+ },
+ "antarctic/midday": {
+  "bytes": 2068940,
+  "elseDb": 21.5,
+  "intro": 0.0,
+  "joinDb": 24.1,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "bd5df69f9de3699edfe7a34107af2399834a3c5b",
+   "version": 1
+  },
+  "loop": 64.0,
+  "ogg": "music/antarctic/midday.ogg",
+  "segments": 13,
+  "speed": 1.000091
+ },
+ "antarctic/midday_alt": {
+  "bytes": 1881880,
+  "elseDb": 22.9,
+  "intro": 0.0,
+  "joinDb": 23.0,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "0548eb8ea483561b36cbc04d641e98748bca7099",
+   "version": 1
+  },
+  "loop": 58.182,
+  "ogg": "music/antarctic/midday_alt.ogg",
+  "segments": 12,
+  "speed": 0.999873
+ },
+ "antarctic/night": {
+  "bytes": 2246788,
+  "elseDb": 35.0,
+  "intro": 2.912,
+  "joinDb": 24.7,
+  "key": {
+   "at": 72.727,
+   "begin": 2.912,
+   "bitrate": "224k",
+   "sha1": "5c4124d3c2cf18289dcf0fdea61bb51e80acf753",
+   "version": 1
+  },
+  "loop": 69.815,
+  "ogg": "music/antarctic/night.ogg",
+  "segments": 15,
+  "speed": 0.999894
+ },
+ "antarctic/skylevel": {
+  "bytes": 2620720,
+  "elseDb": 23.3,
+  "intro": 11.639,
+  "joinDb": 21.1,
+  "key": {
+   "at": 81.445,
+   "begin": 11.639,
+   "bitrate": "224k",
+   "sha1": "dd014dd65aceceaf26cc704d81d554af06e6cff9",
+   "version": 1
+  },
+  "loop": 69.806,
+  "ogg": "music/antarctic/skylevel.ogg",
+  "segments": 16,
+  "speed": 1.000098
+ },
+ "antarctic/snowfort": {
+  "bytes": 2821128,
+  "elseDb": 24.6,
+  "intro": 7.683,
+  "joinDb": 23.6,
+  "key": {
+   "at": 88.32,
+   "begin": 7.683,
+   "bitrate": "224k",
+   "sha1": "491556714950d882211afc49bf8d88a65bae1d93",
+   "version": 1
+  },
+  "loop": 80.637,
+  "ogg": "music/antarctic/snowfort.ogg",
+  "segments": 18,
+  "speed": 0.999927
+ },
+ "antarctic/sunset": {
+  "bytes": 3365388,
+  "elseDb": 19.1,
+  "intro": 34.912,
+  "joinDb": 21.6,
+  "key": {
+   "at": 104.727,
+   "begin": 34.912,
+   "bitrate": "224k",
+   "sha1": "8f11602f50408107eeba5435d4065d166632cbf2",
+   "version": 1
+  },
+  "loop": 69.815,
+  "ogg": "music/antarctic/sunset.ogg",
+  "segments": 21,
+  "speed": 0.999894
+ },
+ "antarctic/underwater": {
+  "bytes": 3706232,
+  "elseDb": 29.9,
+  "intro": 19.198,
+  "joinDb": 25.7,
+  "key": {
+   "at": 115.2,
+   "begin": 19.198,
+   "bitrate": "224k",
+   "sha1": "afd0cd1fe5cc922c6db5e07dd130fdea174bf9b9",
+   "version": 1
+  },
+  "loop": 96.002,
+  "ogg": "music/antarctic/underwater.ogg",
+  "segments": 23,
+  "speed": 1.000112
+ },
+ "antarctic/voc_night_alt": {
+  "bytes": 2711900,
+  "elseDb": 27.7,
+  "intro": 3.0,
+  "joinDb": 30.3,
+  "key": {
+   "at": 203.0,
+   "begin": 3.0,
+   "bitrate": "160k",
+   "sha1": "64b8a17a91665570c6c8b3e6e4e802b8726fff9f",
+   "version": 1
+  },
+  "loop": 120.0,
+  "ogg": "music/antarctic/voc_night_alt.ogg",
+  "segments": 25,
+  "speed": 0.999994
+ },
+ "antarctic/worldmap_ice": {
+  "bytes": 1211660,
+  "elseDb": 26.0,
+  "intro": 0.0,
+  "joinDb": 32.2,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "224k",
+   "sha1": "02e41b1bd56e84ac884e78c6cb81aff6490184a7",
+   "version": 1
+  },
+  "loop": 38.4,
+  "ogg": "music/antarctic/worldmap_ice.ogg",
+  "segments": 8,
+  "speed": 0.999849
+ },
+ "antarctic/yetiboss": {
+  "bytes": 2542888,
+  "elseDb": 24.9,
+  "intro": 1.446,
+  "joinDb": 28.0,
+  "key": {
+   "at": 82.41,
+   "begin": 1.446,
+   "bitrate": "224k",
+   "sha1": "9f5d03ed840896584bf524cd4cc2829ad5242d7d",
+   "version": 1
+  },
+  "loop": 80.964,
+  "ogg": "music/antarctic/yetiboss.ogg",
+  "segments": 17,
+  "speed": 0.999947
+ },
+ "castle/icecastle": {
+  "bytes": 2510928,
+  "elseDb": 27.5,
+  "intro": 9.235,
+  "joinDb": 24.2,
+  "key": {
+   "at": 80.0,
+   "begin": 9.235,
+   "bitrate": "224k",
+   "sha1": "2d29a575c4813b5d86b2cc30cb7c4ed1b011ca1d",
+   "version": 1
+  },
+  "loop": 70.765,
+  "ogg": "music/castle/icecastle.ogg",
+  "segments": 16,
+  "speed": 0.999867
+ },
+ "forest/forest3": {
+  "bytes": 2197720,
+  "elseDb": 26.9,
+  "intro": 0.0,
+  "joinDb": 24.2,
+  "key": {
+   "at": 99.0,
+   "begin": 0.0,
+   "bitrate": "160k",
+   "sha1": "87f75893d9acf70e974d77b7297a8468727f0e85",
+   "version": 1
+  },
+  "loop": 99.0,
+  "ogg": "music/forest/forest3.ogg",
+  "segments": 20,
+  "speed": 0.9999
+ },
+ "misc/credits": {
+  "bytes": 2804960,
+  "elseDb": 38.5,
+  "intro": 0.0,
+  "joinDb": 35.2,
+  "key": {
+   "at": 107.0,
+   "begin": 0.0,
+   "bitrate": "192k",
+   "sha1": "a38c969b9f61bea9234cd4555fd90886b7f26001",
+   "version": 1
+  },
+  "loop": 107.0,
+  "ogg": "music/misc/credits.ogg",
+  "segments": 21,
+  "speed": 1.000023
+ },
+ "misc/intro": {
+  "bytes": 738088,
+  "elseDb": 33.7,
+  "intro": 0.0,
+  "joinDb": 27.1,
+  "key": {
+   "at": 34.0,
+   "begin": 0.0,
+   "bitrate": "160k",
+   "sha1": "5d6b8b2be1834847df5a1c242d6a78a5620dfeaf",
+   "version": 1
+  },
+  "loop": 34.0,
+  "ogg": "music/misc/intro.ogg",
+  "segments": 7,
+  "speed": 1.000176
+ },
+ "misc/invincible": {
+  "bytes": 307380,
+  "elseDb": 21.8,
+  "intro": 2.0,
+  "joinDb": 14.9,
+  "key": {
+   "at": 14.0,
+   "begin": 2.0,
+   "bitrate": "160k",
+   "sha1": "e6d50900eeae188f687f0f09569c25f4672ec4ad",
+   "version": 1
+  },
+  "loop": 12.0,
+  "ogg": "music/misc/invincible.ogg",
+  "segments": 3,
+  "speed": 0.999607
+ },
+ "misc/leveldone": {
+  "bytes": 135172,
+  "elseDb": 42.2,
+  "intro": 0.0,
+  "joinDb": 27.7,
+  "key": {
+   "at": -1.0,
+   "begin": 0.0,
+   "bitrate": "128k",
+   "sha1": "238fe2b3e922757a2ff54d696298d163679183ad",
+   "version": 1
+  },
+  "loop": 7.709,
+  "ogg": "music/misc/leveldone.ogg",
+  "segments": 2,
+  "speed": 1.0
+ },
+ "misc/theme": {
+  "bytes": 2982244,
+  "elseDb": 28.9,
+  "intro": 9.0,
+  "joinDb": 30.7,
+  "key": {
+   "at": 135.0,
+   "begin": 9.0,
+   "bitrate": "160k",
+   "sha1": "c8f8f55eaa47d243d17d9f4699c7bc07c96bb6d7",
+   "version": 1
+  },
+  "loop": 126.0,
+  "ogg": "music/misc/theme.ogg",
+  "segments": 27,
+  "speed": 1.000068
+ }
+}
